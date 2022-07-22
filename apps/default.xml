@@ -185,7 +185,7 @@
           <layer id="grossedonne" name="Réseaux Isle-Jourdain" visible="false" tiled="false"
                queryable="true"
                infoformat="text/html"
-               url="http://localhost:8090/geoserver/star_dt2/wms"
+               url="http://www.testgeoparera.com:8090/star_dt2/wms"
                attribution="Groupe Parera"
                attributefilter="true" attributefield="reseau"  attributevalues="AEP,COM,ELEC,ASSA,GAZ,00" attributelabel="Choix du réseaux"
                infopanel="bottom-panel"
