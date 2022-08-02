@@ -45,7 +45,7 @@
                 attribution="Source: GéoBretagne"
                 metadata="https://geobretagne.fr/geonetwork/apps/georchestra/?uuid=b08e6cb1-236c-49b7-88f9-42b500d274d5"
                 metadata-csw="https://geobretagne.fr/geonetwork/srv/eng/csw?SERVICE=CSW&amp;VERSION=2.0.2&amp;REQUEST=GetRecordById&amp;elementSetName=full&amp;ID=b08e6cb1-236c-49b7-88f9-42b500d274d5"/>
-            <layer id="epci" name="TEST_1" visible="true" queryable="false" toplayer="true"
+            <layer id="epci" name="Réseaux Isle-Jourdain GeoJSON" visible="true" queryable="false" toplayer="true"
                 fields="nature" aliases="nature"
                 customcontrol="false"
                 type="customlayer" style="" opacity="1" legendurl="img/legend/epci.png"
@@ -54,16 +54,8 @@
                 attribution="Source: GéoBretagne"
                 metadata="https://geobretagne.fr/geonetwork/apps/georchestra/?uuid=2298d744-49cb-4fcb-9487-26f916fecdff"
                 metadata-csw="https://geobretagne.fr/geonetwork/srv/eng/csw?SERVICE=CSW&amp;VERSION=2.0.2&amp;REQUEST=GetRecordById&amp;elementSetName=full&amp;ID=2298d744-49cb-4fcb-9487-26f916fecdff"/>
-           <!-- <layer id="import" name="TEST2" visible="true" queryable="false" toplayer="true"
-                fields="nature" aliases="nature"
-                customcontrol="false"
-                type="customlayer" style="" opacity="1"
-                url="customlayers/import.js"
-                tooltip="true" tooltipenabled="true"
-                attribution="Source: star_dt"
-                metadata="https://geobretagne.fr/geonetwork/apps/georchestra/?uuid=2298d744-49cb-4fcb-9487-26f916fecdff"
-                metadata-csw="https://geobretagne.fr/geonetwork/srv/eng/csw?SERVICE=CSW&amp;VERSION=2.0.2&amp;REQUEST=GetRecordById&amp;elementSetName=full&amp;ID=2298d744-49cb-4fcb-9487-26f916fecdff"/> -->
-		<layer id="grossedonne" name="Réseaux Isle-Jourdain" visible="false" tiled="false"
+           
+		<layer id="grossedonne" name="Réseaux Isle-Jourdain GeoServer" visible="false" tiled="false"
                queryable="true"
                infoformat="text/html"
                url="http://localhost:8090/geoserver/star_dt2/wms"
