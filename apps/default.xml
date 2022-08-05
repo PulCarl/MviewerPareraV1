@@ -58,7 +58,7 @@
 		<layer id="grossedonne" name="Réseaux Isle-Jourdain GeoServer" visible="false" tiled="false"
                queryable="true"
                infoformat="text/html"
-               url="http://localhost:8082/geoserver/star_dt2/wms"
+               url="http://localhost:8010/geoserver/arcgis/wms"
                attribution="Groupe Parera"
                attributefilter="true" attributefield="reseau"  attributevalues="AEP,COM,ELEC,ASSA,GAZ,00" attributelabel="Choix du réseaux"
                infopanel="bottom-panel"
