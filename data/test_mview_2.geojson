@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "name": "test_mview_2",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2154" } },
 "features": [
 { "type": "Feature", "properties": { "gid_element_reseau": 1, "gid_ouvrage": 2, "gid_conteneur": 2, "gid_regard_visitable": 1, "id_element_reseau": "ER_ECL_2699409843_1", "id_regard_visitable": "REGVISI_ECL_2699409843_1", "departement": "GIRONDE", "commune": "La Réole", "code_insee": "33352", "etiquette": "ECL regard sur chaussée", "detail_etiquette": "Regardsurchaussée", "precisionz": "A", "precisionxy": "A", "borgne": null, "vertical_position": "on Ground Surface", "coordonnee_x": "1458559.2975453564", "coordonnee_y": "4157968.805891978", "systeme_de_projection": "RGF93.CC45, EPSG:3945" }, "geometry": { "type": "Point", "coordinates": [ 458640.962133378023282, 6391524.376222254708409 ] } },
 { "type": "Feature", "properties": { "gid_element_reseau": 2, "gid_ouvrage": 3, "gid_conteneur": 3, "gid_regard_visitable": 2, "id_element_reseau": "ER_EP_2699540430_2", "id_regard_visitable": "REGVISI_EP_2699540430_2", "departement": "GIRONDE", "commune": "La Réole", "code_insee": "33352", "etiquette": "EP regard descente gouttière", "detail_etiquette": "Regarddescentegouttière", "precisionz": "A", "precisionxy": "A", "borgne": null, "vertical_position": "on Ground Surface", "coordonnee_x": "1458442.9405684303", "coordonnee_y": "4157983.2015950806", "systeme_de_projection": "RGF93.CC45, EPSG:3945" }, "geometry": { "type": "Point", "coordinates": [ 458525.011524625471793, 6391539.069055492989719 ] } },
