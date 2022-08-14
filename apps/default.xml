@@ -49,7 +49,7 @@
                 fields="nature" aliases="nature"
                 customcontrol="false"
                 type="geojson" style="" opacity="1" legendurl="img/legend/epci.png"
-                url="data/test_mviewer_2"
+                url="data/test_mview_2.geojson"
                 tooltip="true" tooltipenabled="true"
                 attribution="Source: GéoBretagne"
                 metadata="https://geobretagne.fr/geonetwork/apps/georchestra/?uuid=2298d744-49cb-4fcb-9487-26f916fecdff"
