@@ -41,7 +41,7 @@
                 customcontrol="false"
                 type="customlayer" style="" opacity="1" legendurl="img/legend/epci.png"
                 url="customlayers/epci.js"
-                tooltip="true" tooltipenabled="true" tooltipcontent="{{label}} "
+                tooltip="true" tooltipenabled="true" tooltipcontent="{{reseau}} "
 	        infopanel="bottom-panel"
                 metadata-csw=""/>
 	<layer id="grossedonne" name="Réseaux Isle-Jourdain GeoServer" visible="false" tiled="false"
