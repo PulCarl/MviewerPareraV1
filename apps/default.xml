@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
     <application title="PARERA 1.0" mouseposition="false" logo="" help="mviewer_help.html" measuretools="true" exportpng="true" style="css/themes/wet_asphalt.css" togglealllayersfromtheme="true"/>
-    <mapoptions maxzoom="25" projection="EPSG:3857" center="43.7777155,2.7565506" zoom="8" projextent="-20037508.342789244, -20037508.342789244, 20037508.342789244, 20037508.342789244" />
+    <mapoptions maxzoom="25" projection="EPSG:3857" center="628231,5533422" zoom="8" projextent="-20037508.342789244, -20037508.342789244, 20037508.342789244, 20037508.342789244" />
 
     <baselayers style="gallery">
         <baselayer  type="OSM" id="positron" label="Positron" title="CartoDb" thumbgallery="img/basemap/positron.png"
