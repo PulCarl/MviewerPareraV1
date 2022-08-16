@@ -39,7 +39,7 @@
         <theme name="Découpages territoriaux"  collapsed="true" id="territoire" icon="fas fa-globe">
         <layer id="epci" name="Commune" visible="false" queryable="false"
                 fields="nom_geo"
-                type="customlayer" style="" opacity="1" legendurl="img/legend/commune.png"
+                type="customlayer" style="" opacity="1" legendurl="img/legend/epci.png"
                 url="customlayers/epci.js"
                 tooltip="true" tooltipenabled="true"
                 attribution="Source: GéoBretagne"
