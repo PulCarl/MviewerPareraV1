@@ -39,7 +39,7 @@
         <theme name="Découpages territoriaux"  collapsed="true" id="territoire" icon="fas fa-globe">
         <layer id="epci" name="Réseaux Isle-Jourdain GeoJSON" visible="false" queryable="false" 
                 fields="nature" aliases="nature"
-                customcontrol="true"
+                customcontrol="false"
                 type="customlayer" style="" opacity="1" legendurl="img/legend/epci.png"
                 url="customlayers/epci.js"
                 tooltip="true" tooltipenabled="true"
