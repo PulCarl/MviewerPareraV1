@@ -62,8 +62,7 @@
                attributefilter="true" attributefield="reseau"  attributevalues="AEP,COM,ELEC,ASSA,GAZ,00" attributelabel="Choix du réseaux"
                infopanel="bottom-panel"
                metadata-csw="" />
-	<layer id="epci" name="Réseaux Isle-Jourdain GeoJSON" visible="false" 
-		queryable="false" toplayer="true"
+	<layer id="epci" name="Réseaux Isle-Jourdain GeoJSON" visible="false" queryable="false" 
                 fields="nature" aliases="nature"
                 customcontrol="true"
                 type="customlayer" style="" opacity="1" legendurl="img/legend/epci.png"
