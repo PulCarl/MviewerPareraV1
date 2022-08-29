@@ -37,6 +37,7 @@
 
     <themes>
         <theme name="Découpages territoriaux"  collapsed="true" id="territoire" icon="fas fa-globe">
+		<!--Donnée GeoJSON qui ce trouve dans le document data -->
         <layer id="epci" name="Réseaux Isle-Jourdain GeoJSON" visible="false" queryable="true" 
                 customcontrol="false"
                 type="customlayer" style="" opacity="1" legendurl="img/legend/epci.png"
@@ -44,6 +45,7 @@
                 tooltip="true" tooltipenabled="true" tooltipcontent="{{reseau}} "
 	        infopanel="bottom-panel"
                 metadata-csw=""/>
+		<!--Donnée Flux WMS qui ce trouve sur le geoserver-->
 	<layer id="grossedonne" name="Réseaux Isle-Jourdain GeoServer" visible="false" tiled="false"
                queryable="true"
                infoformat="text/html"
